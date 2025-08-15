@@ -19,8 +19,8 @@ Estoy siempre abierto a aprender y experimentar con nuevas tecnologías. Si tien
 
 ## 🚀 Proyectos Destacados
 
-### 1️⃣ **Pádel Companion App**
-Una aplicación diseñada para jugadores de pádel que les ayuda a gestionar sus partidos, estadísticas y más.  
+### 1️⃣ **Sistema de envíos automáticos de mails**
+Una aplicación diseñada para facilitar el envío de mails en bloque y poder así realizarlo con mayor facilidad. Asociado al procesador de comprobantes de pago.  
 *Estado: En desarrollo*
 
 ### 2️⃣ **Scheduler para WhatsApp**
