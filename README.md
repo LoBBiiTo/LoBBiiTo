@@ -32,7 +32,7 @@ Un scheduler que envía recordatorios automáticos por WhatsApp. Ideal para orga
 Me encuentro desarrollando paginas web, tanto landing pages como e-commerce utilizando el stack mencionado previamente y colocando dominiones personalizados como quiera la persona.  
 *Estado: En desarrollo*
 
-### 3️⃣ **F1 Tracker**
+### 4️⃣ **F1 Tracker**
 Una aplicación con la API de F1 oficial que permite visualizar tiempos de cada corredor y establecer tanto diferencias como uso de neumaticos de cada corredor que se desee ver.  
 *Estado: En desarrollo*
 
