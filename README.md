@@ -11,7 +11,8 @@ Mi stack actual incluye:
 
 - **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS  
 - **Backend**: Python (Flask), Node.js  
-- **Otras herramientas**: WhatsApp API, Procesamiento de PDFs  
+- **Otras herramientas**: WhatsApp API, Procesamiento de PDFs
+- **Mobile**: JAVA, Kotlin
 
 Estoy siempre abierto a aprender y experimentar con nuevas tecnologías. Si tienes alguna sugerencia o proyecto interesante, ¡hablemos!
 
@@ -27,8 +28,8 @@ Una aplicación diseñada para facilitar el envío de mails en bloque y poder as
 Un scheduler que envía recordatorios automáticos por WhatsApp. Ideal para organizaciones o personas que necesitan mantenerse al día con sus tareas.  
 *Estado: En desarrollo*
 
-### 3️⃣ **Procesador de Comprobantes de Pago**
-Una app que extrae texto de archivos PDF (comprobantes de pago) y los envía automáticamente a los clientes correctos.  
+### 3️⃣ **Paginas Web por pedido**
+Me encuentro desarrollando paginas web, tanto landing pages como e-commerce utilizando el stack mencionado previamente y colocando dominiones personalizados como quiera la persona.  
 *Estado: En desarrollo*
 
 > Pronto añadiré más detalles y enlaces a estos proyectos. ¡Mantente atento!
